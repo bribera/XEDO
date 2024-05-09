@@ -1,0 +1,28 @@
+
+ 
+    {
+        "items": {
+          "bootstrap": [
+            {
+              "id": 1,
+              "title": "Photography",
+              "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis totam eveniet ut, tempora esse a officiis nesciunt repudiandae est  eos maxime voluptatibus!",
+              "imageUrl": "/public/first.jpg"
+            },
+            {
+              "id": 2,
+              "title": "City Views",
+              "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis totam eveniet ut, tempora esse a officiis nesciunt repudiandae est  eos maxime voluptatibus!",
+              "imageUrl": "/public/second.jpg"
+            },
+            {
+              "id": 3,
+              "title": "Wild Life",
+              "text":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis totam eveniet ut, tempora esse a officiis nesciunt repudiandae est  eos maxime voluptatibus!",
+              "imageUrl": "/public/third.jpg"
+            }
+          ]
+        }
+      }
+     
+  
